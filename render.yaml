@@ -1,0 +1,22 @@
+services:
+  # Backend - FastAPI
+  - type: web
+    name: csv-analytics-backend
+    runtime: python
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: FRONTEND_URL
+        sync: false  # Set manually in Render dashboard after frontend deploys
+
+  # Frontend - React/Vite
+  - type: web
+    name: csv-analytics-frontend
+    runtime: node
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    startCommand: npx serve -s dist -l $PORT
+    envVars:
+      - key: VITE_API_URL
+        sync: false  # Set manually in Render dashboard after backend deploys
