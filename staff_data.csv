@@ -1,0 +1,201 @@
+EmployeeID,FirstName,LastName,Department,Division,Supervisor,Salary
+E001,James,Anderson,Human Resources,Recruitment,Sarah Mitchell,52000
+E002,Maria,Thompson,Human Resources,Payroll,Sarah Mitchell,48000
+E003,David,Williams,Human Resources,Employee Relations,Sarah Mitchell,55000
+E004,Linda,Johnson,Human Resources,Training & Development,Sarah Mitchell,50000
+E005,Robert,Brown,Human Resources,Compensation & Benefits,Sarah Mitchell,53000
+E006,Patricia,Davis,Finance,Accounting,Michael Chen,62000
+E007,Charles,Miller,Finance,Budgeting,Michael Chen,67000
+E008,Barbara,Wilson,Finance,Auditing,Michael Chen,70000
+E009,Joseph,Moore,Finance,Tax,Michael Chen,65000
+E010,Susan,Taylor,Finance,Financial Planning,Michael Chen,72000
+E011,Thomas,Anderson,Information Technology,Software Development,Kevin Nguyen,85000
+E012,Jessica,Thomas,Information Technology,Infrastructure,Kevin Nguyen,80000
+E013,Christopher,Jackson,Information Technology,Cybersecurity,Kevin Nguyen,90000
+E014,Sarah,White,Information Technology,Data Analytics,Kevin Nguyen,87000
+E015,Daniel,Harris,Information Technology,Cloud Services,Kevin Nguyen,92000
+E016,Karen,Martin,Information Technology,Software Development,Kevin Nguyen,83000
+E017,Matthew,Garcia,Information Technology,Infrastructure,Kevin Nguyen,78000
+E018,Nancy,Martinez,Information Technology,Cybersecurity,Kevin Nguyen,88000
+E019,Anthony,Robinson,Marketing,Digital Marketing,Emma Roberts,58000
+E020,Lisa,Clark,Marketing,Brand Management,Emma Roberts,62000
+E021,Mark,Rodriguez,Marketing,Market Research,Emma Roberts,55000
+E022,Donna,Lewis,Marketing,Content Creation,Emma Roberts,52000
+E023,Paul,Lee,Marketing,Social Media,Emma Roberts,50000
+E024,Betty,Walker,Marketing,Advertising,Emma Roberts,60000
+E025,Andrew,Hall,Marketing,Digital Marketing,Emma Roberts,57000
+E026,Helen,Allen,Sales,Inside Sales,Jason Park,54000
+E027,Joshua,Young,Sales,Outside Sales,Jason Park,60000
+E028,Dorothy,Hernandez,Sales,Key Accounts,Jason Park,72000
+E029,Ryan,King,Sales,Sales Operations,Jason Park,58000
+E030,Sandra,Wright,Sales,Channel Sales,Jason Park,65000
+E031,Scott,Lopez,Sales,Inside Sales,Jason Park,53000
+E032,Ashley,Hill,Sales,Outside Sales,Jason Park,62000
+E033,Eric,Scott,Sales,Key Accounts,Jason Park,75000
+E034,Kimberly,Green,Sales,Sales Operations,Jason Park,57000
+E035,Jonathan,Adams,Operations,Supply Chain,Rachel Kim,64000
+E036,Stephanie,Baker,Operations,Logistics,Rachel Kim,60000
+E037,Brian,Gonzalez,Operations,Warehouse,Rachel Kim,48000
+E038,Rebecca,Nelson,Operations,Quality Control,Rachel Kim,55000
+E039,Timothy,Carter,Operations,Production Planning,Rachel Kim,67000
+E040,Sharon,Mitchell,Operations,Supply Chain,Rachel Kim,63000
+E041,Ronald,Perez,Operations,Logistics,Rachel Kim,59000
+E042,Deborah,Roberts,Operations,Warehouse,Rachel Kim,47000
+E043,Gary,Turner,Operations,Quality Control,Rachel Kim,56000
+E044,Melissa,Phillips,Customer Service,Technical Support,Laura Evans,46000
+E045,Jose,Campbell,Customer Service,Customer Care,Laura Evans,44000
+E046,Ruth,Parker,Customer Service,Complaints Resolution,Laura Evans,47000
+E047,Dennis,Evans,Customer Service,Technical Support,Laura Evans,48000
+E048,Angela,Edwards,Customer Service,Customer Care,Laura Evans,45000
+E049,Walter,Collins,Customer Service,Complaints Resolution,Laura Evans,46000
+E050,Amy,Stewart,Customer Service,Technical Support,Laura Evans,49000
+E051,Peter,Sanchez,Legal,Corporate Law,William Foster,95000
+E052,Judy,Morris,Legal,Compliance,William Foster,88000
+E053,Harold,Rogers,Legal,Intellectual Property,William Foster,100000
+E054,Katherine,Reed,Legal,Contracts,William Foster,85000
+E055,Carl,Cook,Legal,Corporate Law,William Foster,93000
+E056,Carolyn,Morgan,Legal,Compliance,William Foster,87000
+E057,Arthur,Bell,Research & Development,Product Innovation,Diana Walsh,75000
+E058,Theresa,Murphy,Research & Development,Technology Research,Diana Walsh,80000
+E059,Frank,Bailey,Research & Development,Process Improvement,Diana Walsh,72000
+E060,Virginia,Rivera,Research & Development,Product Innovation,Diana Walsh,78000
+E061,Justin,Cooper,Research & Development,Technology Research,Diana Walsh,82000
+E062,Gloria,Richardson,Research & Development,Process Improvement,Diana Walsh,70000
+E063,Raymond,Cox,Engineering,Mechanical Engineering,Steven Torres,88000
+E064,Jacqueline,Howard,Engineering,Electrical Engineering,Steven Torres,90000
+E065,Willie,Ward,Engineering,Civil Engineering,Steven Torres,85000
+E066,Catherine,Torres,Engineering,Software Engineering,Steven Torres,92000
+E067,Lawrence,Peterson,Engineering,Mechanical Engineering,Steven Torres,87000
+E068,Joan,Gray,Engineering,Electrical Engineering,Steven Torres,89000
+E069,Samuel,Ramirez,Engineering,Civil Engineering,Steven Torres,84000
+E070,Evelyn,James,Engineering,Software Engineering,Steven Torres,91000
+E071,Gerald,Watson,Procurement,Vendor Management,Christine Lee,60000
+E072,Joyce,Brooks,Procurement,Contract Management,Christine Lee,63000
+E073,Roger,Kelly,Procurement,Strategic Sourcing,Christine Lee,68000
+E074,Frances,Sanders,Procurement,Vendor Management,Christine Lee,59000
+E075,Eugene,Price,Procurement,Contract Management,Christine Lee,62000
+E076,Mildred,Bennett,Procurement,Strategic Sourcing,Christine Lee,67000
+E077,Bobby,Wood,Administration,Office Management,Nancy Cooper,45000
+E078,Alice,Barnes,Administration,Executive Support,Nancy Cooper,50000
+E079,Philip,Ross,Administration,Facilities,Nancy Cooper,43000
+E080,Lois,Henderson,Administration,Office Management,Nancy Cooper,46000
+E081,Clarence,Coleman,Administration,Executive Support,Nancy Cooper,52000
+E082,Jean,Jenkins,Administration,Facilities,Nancy Cooper,42000
+E083,Howard,Perry,Public Relations,Media Relations,Frank Harrison,65000
+E084,Ruby,Powell,Public Relations,Corporate Communications,Frank Harrison,68000
+E085,Ralph,Long,Public Relations,Crisis Management,Frank Harrison,72000
+E086,Phyllis,Patterson,Public Relations,Media Relations,Frank Harrison,64000
+E087,Roy,Hughes,Public Relations,Corporate Communications,Frank Harrison,67000
+E088,Beverly,Flores,Finance,Accounting,Michael Chen,61000
+E089,Russell,Washington,Finance,Budgeting,Michael Chen,66000
+E090,Irene,Butler,Finance,Auditing,Michael Chen,69000
+E091,Earl,Simmons,Information Technology,Software Development,Kevin Nguyen,86000
+E092,Tammy,Foster,Information Technology,Data Analytics,Kevin Nguyen,85000
+E093,Todd,Gonzales,Information Technology,Cloud Services,Kevin Nguyen,91000
+E094,Regina,Bryant,Human Resources,Recruitment,Sarah Mitchell,51000
+E095,Alan,Alexander,Human Resources,Training & Development,Sarah Mitchell,49000
+E096,Tiffany,Russell,Marketing,Brand Management,Emma Roberts,61000
+E097,Curtis,Griffin,Marketing,Market Research,Emma Roberts,54000
+E098,Carolyn,Diaz,Sales,Inside Sales,Jason Park,55000
+E099,Fred,Hayes,Sales,Key Accounts,Jason Park,73000
+E100,Denise,Myers,Sales,Channel Sales,Jason Park,64000
+E101,Jeffery,Ford,Operations,Production Planning,Rachel Kim,66000
+E102,Margaret,Hamilton,Operations,Supply Chain,Rachel Kim,63000
+E103,Reginald,Graham,Customer Service,Technical Support,Laura Evans,47000
+E104,Shannon,Sullivan,Customer Service,Customer Care,Laura Evans,44000
+E105,Darrell,Wallace,Legal,Contracts,William Foster,86000
+E106,Heather,Woods,Legal,Intellectual Property,William Foster,99000
+E107,Mathew,Cole,Research & Development,Product Innovation,Diana Walsh,76000
+E108,Amber,West,Research & Development,Technology Research,Diana Walsh,81000
+E109,Wade,Jordan,Engineering,Mechanical Engineering,Steven Torres,87000
+E110,Crystal,Owens,Engineering,Software Engineering,Steven Torres,90000
+E111,Kent,Reynolds,Procurement,Strategic Sourcing,Christine Lee,66000
+E112,Yolanda,Fisher,Procurement,Contract Management,Christine Lee,62000
+E113,Cody,Ellis,Administration,Executive Support,Nancy Cooper,51000
+E114,Latoya,Harrison,Administration,Office Management,Nancy Cooper,45000
+E115,Barry,Gibson,Public Relations,Crisis Management,Frank Harrison,71000
+E116,Brittany,Mcdonald,Public Relations,Media Relations,Frank Harrison,64000
+E117,Luther,Cruz,Finance,Tax,Michael Chen,64000
+E118,Robyn,Marshall,Finance,Financial Planning,Michael Chen,71000
+E119,Marvin,Ortiz,Information Technology,Infrastructure,Kevin Nguyen,79000
+E120,Gina,Gomez,Information Technology,Cybersecurity,Kevin Nguyen,89000
+E121,Terrence,Murray,Human Resources,Payroll,Sarah Mitchell,49000
+E122,Valerie,Freeman,Human Resources,Compensation & Benefits,Sarah Mitchell,54000
+E123,Dwayne,Wells,Marketing,Social Media,Emma Roberts,51000
+E124,Kristin,Webb,Marketing,Advertising,Emma Roberts,59000
+E125,Brad,Simpson,Marketing,Content Creation,Emma Roberts,52000
+E126,Renee,Stevens,Sales,Outside Sales,Jason Park,61000
+E127,Phillip,Tucker,Sales,Sales Operations,Jason Park,58000
+E128,Felicia,Porter,Operations,Logistics,Rachel Kim,60000
+E129,Jackie,Hunter,Operations,Warehouse,Rachel Kim,48000
+E130,Tyrone,Hicks,Operations,Quality Control,Rachel Kim,56000
+E131,Tonya,Crawford,Customer Service,Complaints Resolution,Laura Evans,46000
+E132,Rafael,Henry,Customer Service,Technical Support,Laura Evans,48000
+E133,Brenda,Bowman,Legal,Corporate Law,William Foster,94000
+E134,Leonard,Watts,Legal,Compliance,William Foster,89000
+E135,Sylvia,Olson,Research & Development,Process Improvement,Diana Walsh,71000
+E136,Vincent,Burns,Research & Development,Product Innovation,Diana Walsh,77000
+E137,Monica,Medina,Engineering,Electrical Engineering,Steven Torres,89000
+E138,Cedric,Hunt,Engineering,Civil Engineering,Steven Torres,85000
+E139,Jenna,Palmer,Procurement,Vendor Management,Christine Lee,61000
+E140,Omar,Knight,Procurement,Strategic Sourcing,Christine Lee,68000
+E141,Tamara,Rose,Administration,Facilities,Nancy Cooper,43000
+E142,Julius,Stone,Administration,Executive Support,Nancy Cooper,50000
+E143,Latonya,Hawkins,Public Relations,Corporate Communications,Frank Harrison,68000
+E144,Sterling,Reid,Public Relations,Crisis Management,Frank Harrison,72000
+E145,Ronda,Black,Finance,Accounting,Michael Chen,62000
+E146,Melvin,Fox,Finance,Budgeting,Michael Chen,67000
+E147,Keisha,Leon,Information Technology,Software Development,Kevin Nguyen,84000
+E148,Jermaine,Boyd,Information Technology,Infrastructure,Kevin Nguyen,80000
+E149,Wendy,Ferguson,Human Resources,Recruitment,Sarah Mitchell,52000
+E150,Andre,Rice,Human Resources,Employee Relations,Sarah Mitchell,55000
+E151,Tara,Cunningham,Marketing,Digital Marketing,Emma Roberts,58000
+E152,Brent,Arnold,Sales,Inside Sales,Jason Park,54000
+E153,Candice,Dunn,Sales,Outside Sales,Jason Park,60000
+E154,Leon,Wagner,Operations,Supply Chain,Rachel Kim,64000
+E155,Misty,Bradley,Operations,Production Planning,Rachel Kim,67000
+E156,Daryl,Ball,Customer Service,Customer Care,Laura Evans,45000
+E157,Layla,Austin,Customer Service,Complaints Resolution,Laura Evans,47000
+E158,Carlton,Willis,Legal,Contracts,William Foster,85000
+E159,Serena,Watkins,Research & Development,Technology Research,Diana Walsh,80000
+E160,Brandon,Curry,Engineering,Mechanical Engineering,Steven Torres,88000
+E161,Gabrielle,Day,Procurement,Contract Management,Christine Lee,63000
+E162,Kendall,Garrett,Administration,Office Management,Nancy Cooper,46000
+E163,Desiree,Welch,Public Relations,Media Relations,Frank Harrison,65000
+E164,Courtney,Spencer,Finance,Tax,Michael Chen,65000
+E165,Sherman,Warren,Finance,Auditing,Michael Chen,70000
+E166,Nakia,Carroll,Information Technology,Data Analytics,Kevin Nguyen,86000
+E167,Marcus,Bass,Information Technology,Cloud Services,Kevin Nguyen,92000
+E168,Ivory,Craig,Human Resources,Training & Development,Sarah Mitchell,50000
+E169,Rhonda,Barker,Human Resources,Payroll,Sarah Mitchell,48000
+E170,Jerome,Kirk,Marketing,Brand Management,Emma Roberts,62000
+E171,Victoria,Munoz,Sales,Key Accounts,Jason Park,74000
+E172,Earnest,Patton,Sales,Channel Sales,Jason Park,65000
+E173,Tricia,Wade,Operations,Logistics,Rachel Kim,59000
+E174,Dominic,Page,Operations,Warehouse,Rachel Kim,47000
+E175,Susie,Hale,Customer Service,Technical Support,Laura Evans,48000
+E176,Archie,Sparks,Legal,Corporate Law,William Foster,93000
+E177,Lena,Gross,Research & Development,Process Improvement,Diana Walsh,72000
+E178,Quinton,Bishop,Engineering,Software Engineering,Steven Torres,91000
+E179,Ebony,Rhodes,Procurement,Vendor Management,Christine Lee,60000
+E180,Chadwick,Morton,Administration,Facilities,Nancy Cooper,43000
+E181,Latasha,Abbott,Public Relations,Corporate Communications,Frank Harrison,67000
+E182,Dwight,Yates,Finance,Financial Planning,Michael Chen,72000
+E183,Priscilla,Holt,Information Technology,Cybersecurity,Kevin Nguyen,90000
+E184,Roosevelt,Vega,Human Resources,Compensation & Benefits,Sarah Mitchell,53000
+E185,Tina,Gibbs,Marketing,Content Creation,Emma Roberts,52000
+E186,DeShawn,Thornton,Sales,Sales Operations,Jason Park,57000
+E187,Adrienne,Bowers,Operations,Quality Control,Rachel Kim,55000
+E188,Brandon,Schultz,Customer Service,Customer Care,Laura Evans,45000
+E189,Alicia,Manning,Legal,Compliance,William Foster,88000
+E190,Devin,Barton,Research & Development,Product Innovation,Diana Walsh,77000
+E191,Naomi,Cannon,Engineering,Electrical Engineering,Steven Torres,89000
+E192,Ibrahim,Pitts,Procurement,Strategic Sourcing,Christine Lee,67000
+E193,Trisha,Parsons,Administration,Executive Support,Nancy Cooper,51000
+E194,Kayla,Hicks,Public Relations,Media Relations,Frank Harrison,65000
+E195,Warren,Mckinney,Finance,Accounting,Michael Chen,62000
+E196,Ingrid,Christensen,Information Technology,Software Development,Kevin Nguyen,85000
+E197,Deon,Swanson,Human Resources,Employee Relations,Sarah Mitchell,54000
+E198,Monika,Lindsey,Marketing,Social Media,Emma Roberts,50000
+E199,Hakeem,Blackwell,Engineering,Civil Engineering,Steven Torres,86000
+E200,Vanessa,Okafor,Operations,Supply Chain,Rachel Kim,64000

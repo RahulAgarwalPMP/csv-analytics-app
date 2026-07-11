@@ -1,0 +1,155 @@
+.chart-builder {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* ── Controls ── */
+.chart-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #334155;
+}
+
+.control-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.control-label {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: #64748b;
+}
+
+/* Chart type pills */
+.chart-type-btns {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.chart-type-btn {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: #0f172a;
+  border: 1px solid #334155;
+  color: #94a3b8;
+  border-radius: 8px;
+  padding: 7px 14px;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.18s;
+}
+
+.chart-type-btn:hover {
+  border-color: #64748b;
+  color: #e2e8f0;
+}
+
+.chart-type-btn.active {
+  background: #0ea5e9;
+  border-color: #0ea5e9;
+  color: #fff;
+}
+
+/* Selectors row */
+.selectors-row {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+
+.selectors-row .control-group {
+  flex: 1;
+  min-width: 160px;
+}
+
+.col-select {
+  background: #0f172a;
+  border: 1px solid #334155;
+  color: #e2e8f0;
+  border-radius: 8px;
+  padding: 8px 36px 8px 12px;
+  font-size: 13px;
+  width: 100%;
+  cursor: pointer;
+  transition: border-color 0.2s;
+}
+
+.col-select:hover,
+.col-select:focus {
+  border-color: #38bdf8;
+  outline: none;
+}
+
+/* Color swatches */
+.color-swatches {
+  display: flex;
+  gap: 6px;
+}
+
+.swatch {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  border: 2px solid transparent;
+  cursor: pointer;
+  transition: transform 0.15s, border-color 0.15s;
+}
+
+.swatch:hover {
+  transform: scale(1.15);
+}
+
+.swatch.active {
+  border-color: #fff;
+  transform: scale(1.2);
+}
+
+/* ── Chart Area ── */
+.chart-area {
+  min-height: 440px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.no-data {
+  color: #475569;
+  font-size: 15px;
+  text-align: center;
+  padding: 60px 0;
+}
+
+/* ── Footer ── */
+.chart-footer {
+  font-size: 12px;
+  color: #475569;
+  text-align: right;
+}
+
+/* ── Tooltip ── */
+.custom-tooltip {
+  background: #1e293b;
+  border: 1px solid #334155;
+  border-radius: 8px;
+  padding: 10px 14px;
+  font-size: 13px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+}
+
+.tooltip-label {
+  color: #94a3b8;
+  margin-bottom: 6px;
+  font-weight: 600;
+  font-size: 12px;
+}
