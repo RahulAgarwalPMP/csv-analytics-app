@@ -8,17 +8,19 @@ import json
 
 app = FastAPI(title="CSV Analytics API", version="1.0.0")
 
-# Allow React dev server
 import os
 
-# Allow localhost for dev, and any Railway-deployed frontend via env var
+# Allow all origins in production for simplicity, restrict via env var if needed
+FRONTEND_URL = os.environ.get("FRONTEND_URL", "")
+
 ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "http://127.0.0.1:3000",
+    "https://csv-analytics-app.onrender.com",
+    "https://csv-analytics-frontend.onrender.com",
 ]
-frontend_url = os.environ.get("FRONTEND_URL")
-if frontend_url:
-    ALLOWED_ORIGINS.append(frontend_url)
+if FRONTEND_URL and FRONTEND_URL not in ALLOWED_ORIGINS:
+    ALLOWED_ORIGINS.append(FRONTEND_URL)
 
 app.add_middleware(
     CORSMiddleware,
