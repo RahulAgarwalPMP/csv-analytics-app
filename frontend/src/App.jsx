@@ -5,8 +5,8 @@ import ChartBuilder from './components/ChartBuilder.jsx';
 import DataPreview from './components/DataPreview.jsx';
 import './App.css';
 
-// In dev, Vite proxies API calls. In production (Railway), set VITE_API_URL env var to backend URL.
-const API_BASE = import.meta.env.VITE_API_URL || '';
+// In dev, Vite proxies API calls. In production, uses VITE_API_URL or falls back to backend URL.
+const API_BASE = import.meta.env.VITE_API_URL || 'https://csv-analytics-backend.onrender.com';
 
 function App() {
   const [uploadedFile, setUploadedFile] = useState(null);
